@@ -23,7 +23,10 @@ public struct BestRecordUpdate
 
 public static class BestScoreManager
 {
-    private const string KeyPrefix = "GuitarKing";
+    // Versioned namespace for best records. Changing this namespace gives a
+    // fresh first-launch record slate without deleting unrelated settings
+    // (volume, resolution, video options, etc.) stored in PlayerPrefs.
+    private const string KeyPrefix = "GuitarKing_Best_v2";
 
     public static BestRecord GetBest(string songFolder, SongDifficulty difficulty)
     {

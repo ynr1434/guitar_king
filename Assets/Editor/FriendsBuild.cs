@@ -27,7 +27,7 @@ public static class FriendsBuild
         if (!BuildPipeline.IsBuildTargetSupported(BuildTargetGroup.Standalone, target))
             throw new InvalidOperationException("Install Unity Build Support for " + target);
         PlayerSettings.productName = "Guitar King";
-        PlayerSettings.bundleVersion = "0.1.0";
+        PlayerSettings.bundleVersion = "0.1.2";
         PlayerSettings.SetScriptingBackend(NamedBuildTarget.Standalone, ScriptingImplementation.Mono2x);
         Directory.CreateDirectory(Path.GetDirectoryName(path));
         BuildReport report = BuildPipeline.BuildPlayer(new BuildPlayerOptions

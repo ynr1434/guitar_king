@@ -1,6 +1,6 @@
 # Guitar King
 
-Private Unity rhythm-game prototype. First friends build: **0.1.0**.
+Private Unity rhythm-game prototype. Friends build: **0.1.2**.
 
 ## Play
 

@@ -74,6 +74,7 @@ public static class RhythmGameSceneBuilder
 
         GameObject hitLine = new("HitLine");
         hitLine.transform.SetParent(highway.transform, false);
+        hitLine.transform.localPosition = new Vector3(0f, 0.24f, 0f);
         CreatePrimitive(PrimitiveType.Cube, "HitLineBar", hitLine.transform,
             new Vector3(0f, 0.14f, -1.55f), new Vector3(5.8f, 0.07f, 0.16f), hitLineMaterial);
 
