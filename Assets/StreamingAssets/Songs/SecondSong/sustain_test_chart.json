@@ -1,0 +1,8 @@
+{
+  "notes": [
+    { "lane": "Green", "hitTime": 4.0, "duration": 2.0 },
+    { "lane": "Red", "hitTime": 9.0, "duration": 2.5 },
+    { "lane": "Yellow", "hitTime": 14.0, "duration": 1.5 },
+    { "lane": "Blue", "hitTime": 20.0, "duration": 3.0 }
+  ]
+}

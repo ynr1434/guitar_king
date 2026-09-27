@@ -1,0 +1,8 @@
+{
+  "title": "Test Song",
+  "artist": "Unknown Artist",
+  "bpm": 60,
+  "offset": 0.0,
+  "audioFile": "song.wav",
+  "chartFile": "chart.json"
+}

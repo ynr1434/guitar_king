@@ -1,0 +1,8 @@
+{
+    "title": "Chop Suey!",
+    "artist": "System of A Down",
+    "bpm": 60.0,
+    "offset": 0.0,
+    "audioFile": "song.wav",
+    "chartFile": "chart_normal.json"
+}

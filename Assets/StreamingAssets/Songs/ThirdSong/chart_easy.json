@@ -1,0 +1,252 @@
+{
+    "notes": [
+        {
+            "lane": "",
+            "lanes": [
+                "Green"
+            ],
+            "hitTime": 0.23733333333331076,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Red"
+            ],
+            "hitTime": 2.1146666666666649,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Yellow"
+            ],
+            "hitTime": 4.013333333333321,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Blue"
+            ],
+            "hitTime": 6.103999999999985,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Green"
+            ],
+            "hitTime": 8.087999999999994,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Blue"
+            ],
+            "hitTime": 9.111999999999995,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Red"
+            ],
+            "hitTime": 10.093333333333334,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Yellow"
+            ],
+            "hitTime": 11.074666666666645,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Green"
+            ],
+            "hitTime": 12.055999999999984,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Yellow"
+            ],
+            "hitTime": 12.077333333333315,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Red"
+            ],
+            "hitTime": 13.165333333333337,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Blue"
+            ],
+            "hitTime": 14.082666666666654,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Green"
+            ],
+            "hitTime": 15.063999999999993,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Blue"
+            ],
+            "hitTime": 15.085333333333324,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Red"
+            ],
+            "hitTime": 17.154666666666658,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Yellow"
+            ],
+            "hitTime": 18.626666666666666,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Green"
+            ],
+            "hitTime": 20.077333333333315,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Green"
+            ],
+            "hitTime": 21.591999999999986,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Blue"
+            ],
+            "hitTime": 21.591999999999986,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Green"
+            ],
+            "hitTime": 23.085333333333325,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Red"
+            ],
+            "hitTime": 23.085333333333325,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Yellow"
+            ],
+            "hitTime": 25.048000000000003,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Red"
+            ],
+            "hitTime": 26.135999999999997,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Blue"
+            ],
+            "hitTime": 26.669333333333328,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Green"
+            ],
+            "hitTime": 27.096000000000005,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Red"
+            ],
+            "hitTime": 27.608000000000005,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Yellow"
+            ],
+            "hitTime": 27.629333333333336,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Green"
+            ],
+            "hitTime": 28.546666666666654,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Blue"
+            ],
+            "hitTime": 28.610666666666647,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Red"
+            ],
+            "hitTime": 29.144000000000007,
+            "duration": 0.0
+        },
+        {
+            "lane": "",
+            "lanes": [
+                "Blue"
+            ],
+            "hitTime": 29.634666666666648,
+            "duration": 0.0
+        }
+    ]
+}
